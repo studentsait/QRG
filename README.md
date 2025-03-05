@@ -1,0 +1,2 @@
+# QRG
+Quantum random generator
